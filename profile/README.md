@@ -7,3 +7,7 @@
 - **localhost/board/:no** (GET) - 글조회
 - **localhost/board/:no** (DELETE) - 글삭제
 
+# JWT, JPA 적용해보기
+
+[JWT, JPA 적용](https://github.com/thdqudgnsToy/jwt_jpa)
+
